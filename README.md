@@ -1,0 +1,2 @@
+# CBDownloader
+Comicbook Downloader
