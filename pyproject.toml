@@ -15,13 +15,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-web = [
-    "flask>=2.3",
-]
-dev = [
-    "pytest>=7.4",
-    "responses>=0.25",
-    "flask>=2.3",
+
 ]
 
 [tool.pytest.ini_options]
